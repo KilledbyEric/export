@@ -10,13 +10,10 @@ logger = logging.getLogger('log')
 
 
 def index(request, _):
-    """
-    获取主页
-
-     `` request `` 请求对象
-    """
-
-    return render(request, 'index.html')
+    if request.method == 'GET' or request.method == 'get':
+        return render(request, 'index.html')
+    else:
+        print('yes')
 
 
 def counter(request, _):

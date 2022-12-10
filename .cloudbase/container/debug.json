@@ -4,7 +4,8 @@
       "name": "export",
       "domain": "",
       "ip": "",
-      "containerId": "561e49bc848e38ceb68a387a517505e05ba71bae5e508009900436847279f06f"
+      "mode": "compose",
+      "containerId": "b55ac0fc08137474fece5a20e3057693988430d865abcfd254ce3035c8f4ee1c"
     }
   ],
   "config": {
