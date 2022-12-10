@@ -9,11 +9,12 @@ from wxcloudrun.models import Counters
 logger = logging.getLogger('log')
 
 
-def index(request, _):
+def index(request):
     if request.method == 'GET' or request.method == 'get':
         return render(request, 'index.html')
     else:
-        print('yes')
+        list = request.POST.get("list")
+        print(list)
 
 
 def counter(request, _):
