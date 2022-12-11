@@ -28,8 +28,11 @@ def index(request,_):
         row_num = 0
         for col_num in range(len(columns)):
             ws.write(row_num, col_num, columns[col_num])
-            
+        print("===============================")
+        print(request.POST)
+        print("===============================")
         dataList = request.POST.get('list').split(",")
+        
         rows = exportdata.objects.filter(id__in = dataList).values_list()
         # ['wishData0001003', '浙江大学(一流大学建设高校)', '外国语言文学类', '含英语、翻译专业。', 4, '浙江', '杭州', '本科', '5300', '不限', 10, 665, 3044, 'A', '985', '公办']
         #              0                 1                      2                    3          4    5      6        7      8      9      10  11    12    13   14    15                            
