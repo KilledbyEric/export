@@ -34,3 +34,136 @@
 [2022-12-11 06:02:23,830] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /?list=wishData0001011,wishData0001002 HTTP/1.1" 200 5960
 [2022-12-11 06:02:34,347] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /?list=wishData0001011,wishData0001002 HTTP/1.1" 200 5961
 [2022-12-11 06:04:26,820] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:18:16,821] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:18:21,024] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:18:22,389] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:18:24,488] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:19:08,545] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:19:34,421] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:19:37,189] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:19:39,127] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:19:44,960] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:19:54,996] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:19:58,391] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:19:59,835] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:20:33,060] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:20:58,104] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:20:59,697] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:01,288] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:02,725] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:07,112] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:10,207] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:12,030] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:13,609] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:20,052] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:23,848] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:26,153] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:29,122] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:32,351] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:33,475] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:35,154] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:38,548] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:42,602] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:46,292] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:21:50,282] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:24:25,191] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:24:28,231] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:24:35,636] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:24:43,561] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:24:51,242] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:24:55,494] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:24:58,963] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:25:00,574] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:25:09,824] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:25:14,518] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:25:15,851] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:25:31,683] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:25:33,233] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:25:37,879] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:25:40,250] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:26:17,198] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:29:33,649] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:30:32,597] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/root/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/root/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/app/wxcloudrun/views.py", line 33, in index
+    dataList = request.GET.get('list'+idx).split(",")
+TypeError: can only concatenate str (not "int") to str
+[2022-12-11 08:30:32,606] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET / HTTP/1.1" 500 61631
+[2022-12-11 08:30:32,778] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/root/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/root/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/app/wxcloudrun/views.py", line 33, in index
+    dataList = request.GET.get('list'+idx).split(",")
+TypeError: can only concatenate str (not "int") to str
+[2022-12-11 08:30:32,782] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /favicon.ico HTTP/1.1" 500 61546
+[2022-12-11 08:30:56,227] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:30:57,711] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:31:38,666] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/root/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/root/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/app/wxcloudrun/views.py", line 33, in index
+    dataList = request.GET.get('list'+str(idx)).split(",")
+AttributeError: 'NoneType' object has no attribute 'split'
+[2022-12-11 08:31:38,673] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /?&list2=wishData0001011,wishData0001002&list3=wishData0001011,wishData0001002 HTTP/1.1" 500 61360
+[2022-12-11 08:32:07,922] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:32:11,213] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:32:16,766] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:32:18,470] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/root/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/root/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/app/wxcloudrun/views.py", line 34, in index
+    dataList = request.GET.get('list'+str(idx)).split(",")
+AttributeError: 'NoneType' object has no attribute 'split'
+[2022-12-11 08:32:18,475] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /?&list2=wishData0001011,wishData0001002&list3=wishData0001011,wishData0001002 HTTP/1.1" 500 60934
+[2022-12-11 08:32:42,570] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/root/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/root/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/app/wxcloudrun/views.py", line 34, in index
+    dataList = request.GET.get('list'+str(idx)).split(",")
+AttributeError: 'NoneType' object has no attribute 'split'
+[2022-12-11 08:32:42,573] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /?list1=wishData0001011,wishData0001002&list2=wishData0001011,wishData0001002&list3=wishData0001011,wishData0001002 HTTP/1.1" 500 61312
+[2022-12-11 08:32:58,601] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:33:01,744] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:33:05,594] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:33:06,623] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:33:16,584] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/root/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/root/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/app/wxcloudrun/views.py", line 36, in index
+    dataList = request.GET.get('list'+str(idx)).split(",")
+AttributeError: 'NoneType' object has no attribute 'split'
+[2022-12-11 08:33:16,594] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /?list1=wishData0001011,wishData0001002&list2=wishData0001011,wishData0001002&list3=wishData0001011,wishData0001002 HTTP/1.1" 500 61202
+[2022-12-11 08:33:32,466] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:33:34,049] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:33:36,433] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "/root/.local/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/root/.local/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/app/wxcloudrun/views.py", line 36, in index
+    dataList = request.GET.get('list'+str(idx)).split(",")
+AttributeError: 'NoneType' object has no attribute 'split'
+[2022-12-11 08:33:36,438] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /?list1=wishData0001011,wishData0001002&list2=wishData0001011,wishData0001002&list3=wishData0001011,wishData0001002 HTTP/1.1" 500 61233
+[2022-12-11 08:34:09,905] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /?list0=wishData0001011,wishData0001002&list1=wishData0001011,wishData0001002&list2=wishData0001011,wishData0001002 HTTP/1.1" 200 7377
+[2022-12-11 08:34:26,621] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-12-11 08:34:45,836] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /?list0=wishData0001011,wishData0001002&list1=wishData0001011,wishData0001002&list2= HTTP/1.1" 200 7209
