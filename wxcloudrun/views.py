@@ -15,8 +15,8 @@ logger = logging.getLogger('log')
 
 def index(request,_):
     if request.method == 'GET' or request.method == 'get':
-        return render(request, 'index.html')
-    else:
+    #     return render(request, 'index.html')
+    # else:
         timeStamp = datetime.now().strftime('%Y%m%d%H%M%S%f')
         file_name = "志愿表"+timeStamp+".xlsx"
         dest_filename = str(settings.BASE_DIR) + '\\doc_tmp\\' + file_name
@@ -29,9 +29,9 @@ def index(request,_):
         for col_num in range(len(columns)):
             ws.write(row_num, col_num, columns[col_num])
         print("===============================")
-        print(request.POST)
+        print(request.GET.get('list').split(","))
         print("===============================")
-        dataList = request.POST.get('list').split(",")
+        dataList = request.GET.get('list').split(",")
         
         rows = exportdata.objects.filter(id__in = dataList).values_list()
         # ['wishData0001003', '浙江大学(一流大学建设高校)', '外国语言文学类', '含英语、翻译专业。', 4, '浙江', '杭州', '本科', '5300', '不限', 10, 665, 3044, 'A', '985', '公办']
