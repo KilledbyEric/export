@@ -29,6 +29,7 @@ class exportdata(models.Model):
     tuition = models.CharField(max_length=10, null=False, blank=False)
     xk = models.CharField(max_length=20, null=False, blank=False)
     planNum = models.SmallIntegerField(max_length=4, null=False, blank=False)
+    planNum_lastest = models.SmallIntegerField(max_length=4, null=False, blank=False)
     score = models.SmallIntegerField(max_length=3, null=False, blank=False)
     position = models.IntegerField(max_length=7, null=False, blank=False)
     CDR = models.CharField(max_length=2, null=True, blank=True)
